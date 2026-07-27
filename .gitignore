@@ -1,0 +1,53 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# C++ build files
+*.dll
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# CMake (если появится)
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio generated
+*.vcxproj.user
+*.csproj.user
+*.vcxproj.filters
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Rider/ReSharper (если используешь)
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
